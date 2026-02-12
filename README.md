@@ -12,8 +12,6 @@ I am a motivated and detail-oriented MCA student at Techno India University, Kol
 ![](https://nirzak-streak-stats.vercel.app/?user=DeBU1727&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeBU1727&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DeBU1727&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
