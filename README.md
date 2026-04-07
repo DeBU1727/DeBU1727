@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi ⚡, I am Debanshu Ghosh</b></h1>
+<h1 align="center"><b>Hi👋, I am Debanshu Ghosh</b></h1>
 <h3 align="center">Turning ideas into impact, one step at a time 🚀</h3>
 
 ## 🌐 Socials:
