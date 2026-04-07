@@ -1,5 +1,5 @@
-Hi 👋, I am Debanshu Ghosh  
-Turning ideas into impact, one step at a time 🚀
+<h1 align="center"><b>Hi ⚡, I am Debanshu Ghosh</b></h1>
+<h3 align="center">Turning ideas into impact, one step at a time 🚀</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debanshu-g) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gdebanshu1727@gmail.com) 
